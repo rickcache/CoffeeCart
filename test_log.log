@@ -1,0 +1,7 @@
+2025-10-06 17:53:32,596 - INFO - ==== Test Session Started ====
+2025-10-06 17:53:34,140 - INFO - Directing to the website
+2025-10-06 17:53:34,875 - INFO - Adding Coffee
+2025-10-06 17:53:48,719 - INFO - Directing to the Cart Page
+2025-10-06 17:53:48,782 - INFO - Testing the success of the Coffee Carting Test
+2025-10-06 17:53:48,782 - INFO - Cart contains all 9 coffee
+2025-10-06 17:53:57,301 - INFO - ==== Test Session Finished ====
