@@ -43,7 +43,7 @@ pytest --html=report.html -v -s
 7. Generate Screenshots
 ```bash
 pytest -v -s --self-contained-html
-
+```
 ##Features
 
 -Add-To-Cart: Add multiple coffee products to the cart
